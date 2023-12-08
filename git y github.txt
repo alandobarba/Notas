@@ -1,0 +1,22 @@
+
+
+
+git init: Inicia un nuevo repositorio Git en un directorio.
+
+git clone URL_del_repositorio: Clona un repositorio Git existente en un nuevo directorio.
+
+git add .: Agrega cambios al área de preparación (staging) para el próximo commit.
+
+git commit -m "Mensaje del commit": Crea un nuevo commit con los cambios en el área de preparación.
+
+git log: Muestra un registro de los commits en el repositorio.
+
+git pull origin nombre_de_rama: Obtiene cambios desde un repositorio remoto y los fusiona con tu rama actual.
+
+git push origin nombre_de_rama: Sube tus commits locales a un repositorio remoto.
+
+git branch: Lista las ramas disponibles en el repositorio.
+
+git merge nombre_de_rama: Fusiona una rama con la rama actual.
+
+git config --global user.name "Tu Nombre" y git config --global user.email "tu@email.com": Configura opciones específicas de Git, como el nombre de usuario y el correo electrónico.
