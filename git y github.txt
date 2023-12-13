@@ -1,5 +1,10 @@
+ 
 
-esta es prueba de Alando
+cd nombre de la carpeta que quieres entrar : permite entrar a la carpeta especificada
+
+ls : muestra todas las carpetas en la ruta actual
+
+git checkout nombre de la rama que quieres cambiar : sirve para cambiar de rama.
 
 git init: Inicia un nuevo repositorio Git en un directorio.
 
@@ -15,7 +20,11 @@ git pull origin nombre_de_rama: Obtiene cambios desde un repositorio remoto y lo
 
 git push origin nombre_de_rama: Sube tus commits locales a un repositorio remoto.
 
+git status : muestra el status del repositorio
+
 git branch: Lista las ramas disponibles en el repositorio.
+
+git branch nombre de la rama que quieres crear: crea una rama.
 
 git merge nombre_de_rama: Fusiona una rama con la rama actual.
 
